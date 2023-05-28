@@ -4,6 +4,7 @@
 
 .menu-icon {
     cursor: pointer;
+    padding-right: 16px;
 }
 
 .sidenav {
@@ -45,4 +46,9 @@ mat-toolbar, mat-toolbar-row {
             background-color: rgba(0,0,0,0.1);
         }
     }
+}
+
+.router-container {
+    padding-left: 56px;
+    padding-top: 16px;
 }
